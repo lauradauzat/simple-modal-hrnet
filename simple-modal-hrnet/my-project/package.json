@@ -1,11 +1,14 @@
 {
-  "name": "my-project",
+  "name": "simple-modal-hrnet",
   "version": "0.1.0",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "files": [
     "dist"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lauradauzat/simple-modal-hrnet.git"},
   "scripts": {
     "start": "react-scripts start",
     "build-examples": "react-scripts build",
@@ -20,6 +23,10 @@
     "react-dom": "^18.2.0",
     "react-scripts": "^5.0.1",
     "rimraf": "^5.0.1"
+  },
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "browserslist": {
     "production": [
