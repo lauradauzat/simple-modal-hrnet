@@ -1,6 +1,6 @@
 {
   "name": "simple-modal-hrnet",
-  "version": "0.1.0",
+  "version": "2.0.1",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "files": [
@@ -8,7 +8,8 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/lauradauzat/simple-modal-hrnet.git"},
+    "url": "https://github.com/lauradauzat/simple-modal-hrnet.git"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build-examples": "react-scripts build",
