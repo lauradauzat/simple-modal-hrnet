@@ -3,9 +3,9 @@
 simple-modal-hrnet is a lightweight npm package that provides a simple and customizable modal component for your React applications. This package allows you to easily display a modal with a clean and user-friendly design, making it suitable for various use cases, such as displaying success messages, alerts, or any other type of informative content.
 
 ## Technologies Used
-- Node JS - version 18.16.0
-- Npm - version 9.5.1
-- React: version 18.2.0
+![Node.js - version 18.16.0](https://img.shields.io/badge/Node.js-18.16.0-brightgreen)
+![npm - version 9.5.1](https://img.shields.io/badge/npm-9.5.1-blue)
+![React - version 18.2.0](https://img.shields.io/badge/React-18.2.0-lightblue)
 
 ## Installation
 
